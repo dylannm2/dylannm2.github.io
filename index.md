@@ -12,3 +12,9 @@ Poopshot
 
 ## Contact
 dmarti90@uwyo.edu
+
+## Additional Information
+
+[Download my Resume](Dylann MartinezResume)
+
+[UW Geology and Geophysics](https://www.uwyo.edu/geolgeophys/)
