@@ -18,3 +18,6 @@ dmarti90@uwyo.edu
 [Download my Resume](Dylann MartinezResume)
 
 [UW Geology and Geophysics](https://www.uwyo.edu/geolgeophys/)
+
+##Fieldwork
+![Field Site in Nevada](images/field.jpg)
