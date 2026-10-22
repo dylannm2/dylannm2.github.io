@@ -15,7 +15,7 @@ dmarti90@uwyo.edu
 
 ## Additional Information
 
-[Download my Resume](Dylann MartinezResume)
+[Download my Resume](Dylann MartinezResume26)
 
 [UW Geology and Geophysics](https://www.uwyo.edu/geolgeophys/)
 
