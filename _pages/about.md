@@ -29,6 +29,6 @@ latest_posts:
 
 Hello! My name is Dylann Martinez, a graduate student at the University of Wyoming. I come all the way from the great state of Illinois where I got my bachelor's degree in Geology from the University of Illinois Urbana-Champaign. As of August 2026, I've been in Laramie, Wyoming pursuing a Masters in geology with a focus on economic and structural geology.   
 
-When I am not working on my research you can find me outside either camping or climbing. I love spending lots of my free time outside and exploring the western half of the U.S.   
+I am currently doing a project in collaboration with Kinross Gold Corporation where I am trying to reconstruct the geometry of the Bald Mountain Pluton.   
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
