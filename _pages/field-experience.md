@@ -1,6 +1,6 @@
 ---
 layout: page
-title: field experience
+title: Field Experience
 permalink: /field-experience/
 description: Geologic mapping, sampling, and field programs
 nav: true
