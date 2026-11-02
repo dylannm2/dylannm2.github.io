@@ -8,7 +8,7 @@ category: Current research
 related_publications: false
 ---
 
-I am currently working on my masters thesis t
+My current project is focused on using restored cross-sections to understand emplacement of the Bald Mountain Stock located in NE Nevada at the Bald Mountain Mine. This research will help current exploration geologists at Kinross Gold Corporation to have more detailed targets when looking for new deposits in the district. 
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
