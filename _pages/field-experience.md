@@ -26,7 +26,7 @@ nav_order: 2
 ## Wasatch-Uinta Field Camp, Utah  
 **Summer 2026** · Student 
 
-An outstanding six-week field camp working within the Wasatch-Uinta mountain range ran by a consortium of universities, currently directed by Dr. Michael Stewart at the University of Illinois. 
+An outstanding six-week field camp working within the Wasatch-Uinta mountain range ran by a consortium of universities, currently directed by Dr. Michael Stewart at the University of Illinois Urbana-Champaign. 
 
 
 ## Bald Mountain Mine, Nevada 
