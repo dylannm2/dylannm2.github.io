@@ -4,7 +4,7 @@
 email: dmarti@uwyo.edu
 linkedin_username: dylannm
 custom_social:
-  logo: https://www.uwyo.edu/geolgeophys/index.html/
+  logo: /assets/img/uwyo-logo.png
   title: G&G
   url: https://www.uwyo.edu/geolgeophys/index.html
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
