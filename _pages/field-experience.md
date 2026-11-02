@@ -20,7 +20,7 @@ nav_order: 2
   <div class="col-sm-8" markdown="1">
     
 ## Bald Mountain Mine, Nevada 
-**2026 to present** · MS Fieldwork 
+**Summer 2026** · MS Fieldwork 
  
 
 ## Wasatch-Uinta Field Camp, Utah  
