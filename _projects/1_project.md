@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bald Mountain Mine Reconstruction for pluton emplacement
+title: Bald Mountain Mine Reconstruction for Stock Emplacement
 description: Restoring pre-faulted geometry of the Bald Mountain Stock, NE Nevada
 img: assets/img/12.jpg
 importance: 1
