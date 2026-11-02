@@ -4,7 +4,7 @@ title: Home
 permalink: /
 subtitle: Go Pokes 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,7 +22,7 @@ latest_posts:
   <div class="col-sm-8" markdown="1">
 Hello! My name is Dylann Martinez, a graduate student at the University of Wyoming. I come all the way from the great state of Illinois where I got my bachelor’s degree in Geology from the University of Illinois Urbana-Champaign. As of August 2026, I’ve been in Laramie, Wyoming pursuing a Masters in geology with a focus on economic and structural geology.
 
-I am currently doing a project in collaboration with Kinross Gold Corporation where I am trying to reconstruct the geometry of the Bald Mountain Pluton.
+
   </div>
   <div class="col-sm-4">
     {% include figure.liquid loading="eager" path="assets/img/prof_pic.jpg" class="img-fluid z-depth-1 rounded" alt="Dylann Martinez" %}
