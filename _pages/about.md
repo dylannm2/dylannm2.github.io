@@ -18,7 +18,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<div class="row align-items-center">
+<div class="row align-items-start">
   <div class="col-sm-8" markdown="1">
 Hello! My name is Dylann Martinez, a graduate student at the University of Wyoming. I come all the way from the great state of Illinois where I got my bachelor’s degree in Geology from the University of Illinois Urbana-Champaign. As of August 2026, I’ve been in Laramie, Wyoming pursuing a Masters in geology with a focus on economic and structural geology.
 
