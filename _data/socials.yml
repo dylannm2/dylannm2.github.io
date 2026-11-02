@@ -8,9 +8,9 @@ uwyo_profile:
   title: G&G Page
   url: https://www.uwyo.edu/geolgeophys/index.html
 custom_social:
-  logo:
-  title:
-  url: 
+  logo: /assets/img/medal-logo.png
+  title: Medal Lab 
+  url: https://medal.rocks/
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
   title: Custom Social
