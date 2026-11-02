@@ -22,6 +22,8 @@ latest_posts:
   <div class="col-sm-8" markdown="1">
 Hello! My name is Dylann Martinez, a graduate student at the University of Wyoming. I come all the way from the great state of Illinois where I got my bachelor’s degree in Geology from the University of Illinois Urbana-Champaign. As of August 2026, I’ve been in Laramie, Wyoming pursuing a Masters in geology with a focus on economic and structural geology.
 
+I am part of the MEDAL Lab (Mineral Exploration and Deposit Analysis), and am advised by Dr. Joe Biasi.  
+
 
   </div>
   <div class="col-sm-4">
