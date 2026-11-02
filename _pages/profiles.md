@@ -1,8 +1,8 @@
 ---
-layout: About Dylann 
+layout: profiles 
 permalink: /people/
 title: About Me
-description: members of the lab or group
+description: Me, me, and me! 
 nav: true
 nav_order: 7
 
