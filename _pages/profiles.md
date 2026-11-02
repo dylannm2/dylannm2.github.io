@@ -1,7 +1,7 @@
 ---
 layout: About Dylann 
 permalink: /people/
-title: people
+title: About Me
 description: members of the lab or group
 nav: true
 nav_order: 7
