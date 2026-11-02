@@ -1,12 +1,11 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: Resume
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+
+<object data="{{ '/assets/pdf/MaritnezResumeOct2026 .pdf' | relative_url }}" type="application/pdf" width="100%" height="1000px">
+  <p><a href="{{ '/assets/pdf/MaritnezResumeOct2026 .pdf' | relative_url }}">Download my resume (PDF)</a></p>
+</object>
