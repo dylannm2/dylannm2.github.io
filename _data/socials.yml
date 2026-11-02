@@ -3,9 +3,9 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: dmarti@uwyo.edu
 linkedin_username: dylannm
-custom_social:
+uwyo_profile:
   logo: /assets/img/uwyo-logo.png
-  title: G&G
+  title: G&G Page
   url: https://www.uwyo.edu/geolgeophys/index.html
 custom_social:
   logo:
