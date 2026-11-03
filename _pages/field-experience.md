@@ -7,11 +7,25 @@ nav: true
 nav_order: 2
 ---
 
+<style>
+  .field-photo img {
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+  }
+</style>
 
+<div class="row mt-4 align-items-center field-photo">
+  <div class="col-sm-4">
+    {% include figure.liquid loading="eager" path="assets/img/POKESPROSPECTINGWEB.jpg" class="img-fluid rounded z-depth-1" alt="Pokes Prospecting" %}
+  </div>
+  <div class="col-sm-8" markdown="1">
 
 ## Pokes Prospecting, Wyoming
 **Fall 2026** · Exploration 
 
+ </div>
+</div>
 
 
 ## Bald Mountain Mine, Nevada 
