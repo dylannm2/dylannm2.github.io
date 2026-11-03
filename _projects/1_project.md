@@ -2,7 +2,7 @@
 layout: page
 title: Bald Mountain Mine Reconstruction for Stock Emplacement
 description: Restoring pre-faulted geometry of the Bald Mountain Stock, NE Nevada
-img: assets/img/12.jpg
+img: assets/img/BMMOverlook.jpg
 importance: 1
 category: Current research
 related_publications: false
