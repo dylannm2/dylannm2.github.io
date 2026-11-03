@@ -12,6 +12,9 @@ nav_order: 8
     {% include figure.liquid loading="eager" path="assets/img/CONTACTPHOTO.jpg" class="img-fluid rounded z-depth-1" alt="Dylann Martinez" %}
   </div>
   <div class="col-md-6" markdown="1">
+
+Please contact me! Feel free to reach out whether its about exploration, geology, life as a graduate student, or to go climb! 
+
 The best way to reach me is by email at [dmarti90@uwyo.edu](mailto:you@uwyo.edu).
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/dylannm).
