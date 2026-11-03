@@ -24,6 +24,7 @@ nav_order: 2
 ## Pokes Prospecting, Wyoming
 **Fall 2026** · Exploration 
 
+A student-led exploration class where we go out stake some claims with hopes of discovering the next big deposit. 
  </div>
 </div>
 
@@ -31,6 +32,9 @@ nav_order: 2
   <div class="col-sm-8" markdown="1">
 ## Bald Mountain Mine, Nevada
 **Summer 2026** · MS Fieldwork
+
+A month spent out at Bald Mountain Mine working on remapping certain areas, collecting structural data, and core logging for my masters project. 
+
   </div>
   <div class="col-sm-4">
     {% include figure.liquid loading="eager" path="assets/img/BMMOverlook.jpg" class="img-fluid rounded z-depth-1" alt="Bald Mountain Mine" %}
@@ -55,6 +59,7 @@ An outstanding six-week field camp working within the Wasatch-Uinta mountain ran
 ## Bald Mountain Mine, Nevada 
 **Summer 2025** · Exploration Intern 
 
+A whole summer as an exploration intern mapping and developing a brownfield prospect called North Point. 
  </div>
   <div class="col-sm-4">
     {% include figure.liquid loading="eager" path="assets/img/BMMINTERNWEB.jpg" class="img-fluid rounded z-depth-1" alt="Bald Mountain Mine" %}
