@@ -8,7 +8,7 @@ category: Current research
 related_publications: false
 ---
 
-My current project is focused on using restored cross-sections to understand emplacement of the Bald Mountain Stock located in NE Nevada at the Bald Mountain Mine. This research will help current exploration geologists at Kinross Gold Corporation to have more detailed targets when looking for new deposits in the district.
+My current project is focused on using restored cross-sections to understand emplacement of the Bald Mountain Stock located in NE Nevada at Bald Mountain Mine. By reconstructing the stock’s original geometry, this work aims to help  exploration geologists at Kinross target new deposits within a more constrained structural framework. 
 
 <style>
   .uniform-photos img {
@@ -36,7 +36,7 @@ My current project is focused on using restored cross-sections to understand emp
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/OVERLOOKJOEFIELD.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
