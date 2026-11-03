@@ -50,6 +50,13 @@ An outstanding six-week field camp working within the Wasatch-Uinta mountain ran
  </div>
 </div>
 
-
+<div class="row mt-4 align-items-center field-photo">
+  <div class="col-sm-8" markdown="1">
 ## Bald Mountain Mine, Nevada 
 **Summer 2025** · Exploration Intern 
+
+ </div>
+  <div class="col-sm-4">
+    {% include figure.liquid loading="eager" path="assets/img/BMMINTERNWEB.jpg" class="img-fluid rounded z-depth-1" alt="Bald Mountain Mine" %}
+  </div>
+</div>
