@@ -14,9 +14,9 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Office: Geol 316</p>
+      <p>Department of Geology and Geophysics,</p>
+      <p>1000E. University Ave., Laramie, WY, 82071</p>
 ---
 <style>
   .collage img {
