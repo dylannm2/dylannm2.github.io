@@ -37,11 +37,18 @@ nav_order: 2
   </div>
 </div>
  
-
+<div class="row mt-4 align-items-center field-photo">
+  <div class="col-sm-4">
+    {% include figure.liquid loading="eager" path="assets/img/RYDERLAURENFC.jpg" class="img-fluid rounded z-depth-1" alt="Pokes Prospecting" %}
+  </div>
+  <div class="col-sm-8" markdown="1">
+    
 ## Wasatch-Uinta Field Camp, Utah  
 **Summer 2026** · Student 
 
 An outstanding six-week field camp working within the Wasatch-Uinta mountain range ran by a consortium of universities, currently directed by Dr. Michael Stewart at the University of Illinois Urbana-Champaign. 
+ </div>
+</div>
 
 
 ## Bald Mountain Mine, Nevada 
