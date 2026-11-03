@@ -3,7 +3,7 @@ title: Contact
 permalink: /contact/
 description: Lets get in touch!  
 nav: true
-nav_order: 6
+nav_order: 8
 ---
 
 The best way to reach me is by email at [dmarti90@uwyo.edu](mailto:you@uwyo.edu).
