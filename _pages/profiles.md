@@ -28,13 +28,13 @@ profiles:
 
 <div class="row collage mt-4">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/PHOTO1.jpg" class="img-fluid rounded z-depth-1" alt="Climbing" %}
+    {% include figure.liquid loading="eager" path="assets/img/FOLDBMM.jpg" class="img-fluid rounded z-depth-1" alt="Climbing" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/PHOTO2.jpg" class="img-fluid rounded z-depth-1" alt="Peru" %}
+    {% include figure.liquid loading="eager" path="assets/img/FOLDBMM.jpg" class="img-fluid rounded z-depth-1" alt="Peru" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/PHOTO3.jpg" class="img-fluid rounded z-depth-1" alt="Concert" %}
+    {% include figure.liquid loading="eager" path="assets/img/FOLDBMM.jpg" class="img-fluid rounded z-depth-1" alt="Concert" %}
   </div>
 </div>
 <div class="caption">
