@@ -40,7 +40,7 @@ My current project is focused on using restored cross-sections to understand emp
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    An overlook of the field area. 
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
