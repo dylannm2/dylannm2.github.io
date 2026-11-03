@@ -27,6 +27,6 @@ I am part of the MEDAL Lab (Mineral Exploration and Deposit Analysis), and am ad
 
   </div>
   <div class="col-sm-4">
-    {% include figure.liquid loading="eager" path="assets/img/prof_pic.jpg" class="img-fluid z-depth-1 rounded" alt="Dylann Martinez" %}
+    {% include figure.liquid loading="eager" path="assets/img/BBarabooSolo.jpg" class="img-fluid z-depth-1 rounded" alt="Dylann Martinez" %}
   </div>
 </div>
